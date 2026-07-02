@@ -9,8 +9,6 @@ Building scalable backend applications with Python, APIs, databases, Docker and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-gladysh-13522541a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavelgladysh8@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=forkiydev&style=for-the-badge)
-
 </div>
 
 ---
