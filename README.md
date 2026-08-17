@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Pavel Gladysh
+# 👋 Hi, I'm Pavel 
 
 ### Python Backend Developer
 
